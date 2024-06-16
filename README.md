@@ -43,7 +43,7 @@ Netlify Link: https://666eaa0930c660adb96b38bf--howisitin.netlify.app/
 The application includes a dark mode toggle functionality.
 When the button is clicked, the application switches between light and dark modes, enhancing the user experience in different lighting conditions.
 
-##Limitations
+**Limitations**
 
 The Application runs as per the requirements of user(light mode or dark mode) which fetches the data of different weather conditions of different cities based on city name or zip code.. the application stores the data of the previous searches in the UI. but when an error occurs while fetching the data(only possible way due to incorrect city name or zip code entered), the application doesn't show the previous results.
 
