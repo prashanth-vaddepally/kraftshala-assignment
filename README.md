@@ -8,6 +8,9 @@ This project is a weather application that allows users to view the current weat
 The application features a responsive design, making it accessible on various devices, including desktops, tablets, and mobile phones.
 It also includes dark mode functionality for a better user experience in low-light conditions.
 
+## Interaction
+Netlify Link: https://666eaa0930c660adb96b38bf--howisitin.netlify.app/
+
 ## Features
 
 - Display current weather information based on user's input
